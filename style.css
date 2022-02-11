@@ -8,7 +8,8 @@ div .lista-links{
     margin: 50px;
 }
 
-div .lista-links a h1 {
+.titulos {
     color: #f0f0f0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
