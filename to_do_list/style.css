@@ -3,11 +3,6 @@ body {
 }
 
 .lista-links{
-    display: block;
     margin: 50px;
-}
-
-.lista-links a h1 {
-    color: #f0f0f0;
 }
 
