@@ -3,7 +3,7 @@ body {
     background-color: #303030;
 }
 
-div .lista-links{
+.lista-links{
     display: block;
     margin: 50px;
 }
