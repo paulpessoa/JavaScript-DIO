@@ -27,3 +27,9 @@ comparaNumero(1, 2);
 
 
 
+/* utilizar esta declaração para a segunda parte*/
+var toque = 1 > 5 ? "Sim" : "Não";
+
+console.log(toque);
+
+
